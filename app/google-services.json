@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "1063946718695",
+    "firebase_url": "https://progressive-yooung-team.firebaseio.com",
+    "project_id": "progressive-yooung-team",
+    "storage_bucket": "progressive-yooung-team.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063946718695:android:721c5c73a4f86bd6b60142",
+        "android_client_info": {
+          "package_name": "uz.xose.mgovawardproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063946718695-8gg6je7vs6hrtti1vdqectjmmvj40rme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.xose.mgovawardproject",
+            "certificate_hash": "5e3ff6b827c39505bd4449354931113e497a59d7"
+          }
+        },
+        {
+          "client_id": "1063946718695-tn5q4spbdfc4vfr90q195q2hbf3d6g99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALy__DMAy_Ci6dNqm9k6KO0QCWMkHltLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063946718695-tn5q4spbdfc4vfr90q195q2hbf3d6g99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063946718695:android:3f7473ad21ded12ab60142",
+        "android_client_info": {
+          "package_name": "uzb.progressive_young_team.opendataproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063946718695-dsudcqs5r3s513i9ec8h8upcuent6vgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uzb.progressive_young_team.opendataproject",
+            "certificate_hash": "c17cd00d93ee1e7d48b00d725525fa87b082d2c0"
+          }
+        },
+        {
+          "client_id": "1063946718695-hooc5tut00hurdigp8bna0c9lsnalkgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uzb.progressive_young_team.opendataproject",
+            "certificate_hash": "29c240c5536213e477355868fe8866f87914ef69"
+          }
+        },
+        {
+          "client_id": "1063946718695-tn5q4spbdfc4vfr90q195q2hbf3d6g99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALy__DMAy_Ci6dNqm9k6KO0QCWMkHltLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063946718695-tn5q4spbdfc4vfr90q195q2hbf3d6g99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
